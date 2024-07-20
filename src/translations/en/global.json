@@ -1,0 +1,11 @@
+{
+    "header": {
+        "title": "Text Encrypter"
+    },
+    "main": {
+        "placeholder": "Please enter text to encrypt/decrypt here",
+        "encrypt": "Encrypt",
+        "decrypt": "Decrypt",
+        "clean": "Clean"        
+    }
+}
