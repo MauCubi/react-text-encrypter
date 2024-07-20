@@ -32,7 +32,7 @@ const Header = () => {
           >
             <span className={`fi fi-${selectedLanguage.lng}`}></span>
             <p className='max-sm:hidden'>{selectedLanguage.language}</p>
-            <img src='/src/assets/dropdown-arrow-svgrepo-com.svg' width={20} className='max-sm:hidden'></img>
+            <img src='/assets/dropdown-arrow-svgrepo-com.svg' width={20} className='max-sm:hidden'></img>
           </div>
 
           <div className={`rounded-xl border-gray-300 bg-white absolute top-[46px] max-sm:w-auto w-full shadow ${hiddenStatus}`}>
